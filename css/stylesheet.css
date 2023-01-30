@@ -10,3 +10,14 @@ html {
 .p-bgcolor {
     background-color: beige;
 }
+
+p {
+    border: 10px ridge lightgreen;
+    margin: 5px;
+}
+
+span {
+    padding: 0px 5px;
+    border-top: 2px solid black;
+    border-bottom: 4px solid gray;
+}
